@@ -2,6 +2,7 @@ package Sila;
 
 public class oddOrEven {
 
+
     /*
     QUESTION 1 -Numbers --Odd & Even
     Write a method which can identify if a given number odd or even
@@ -11,5 +12,10 @@ public class oddOrEven {
     identify(6) --> "Even
      */
 
+    public static void main(String[] args) {
+
+
+
+    }
 
 }
