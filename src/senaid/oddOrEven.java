@@ -4,6 +4,8 @@ public class oddOrEven {
 
     public static void main(String[] args) {
 
+        //My task solution
+
         System.out.println(identify(5));
         System.out.println(identify(-6));
 
