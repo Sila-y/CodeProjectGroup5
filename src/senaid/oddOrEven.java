@@ -27,6 +27,7 @@ public class oddOrEven {
     }
 
     public static String identifyNum(int number){
+
         return number % 2 == 0 ? number + " is Even number": number + " is Odd number";
     }
 
