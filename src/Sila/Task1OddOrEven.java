@@ -1,6 +1,6 @@
 package Sila;
 
-public class Task1_oddOrEven {
+public class Task1OddOrEven {
     public static void main(String[] args) {
 
         //
