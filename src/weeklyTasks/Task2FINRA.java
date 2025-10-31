@@ -1,6 +1,6 @@
 package weeklyTasks;
 
-public class Task2_FINRA {
+public class Task2FINRA {
 
     /*
    Write a Java method that follows these rules:

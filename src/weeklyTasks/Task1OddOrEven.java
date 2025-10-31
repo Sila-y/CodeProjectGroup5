@@ -1,6 +1,6 @@
 package weeklyTasks;
 
-public class Task1_oddOrEven {
+public class Task1OddOrEven {
 
      /*
     QUESTION 1 -Numbers --Odd & Even:
