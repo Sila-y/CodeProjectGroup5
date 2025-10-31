@@ -1,4 +1,4 @@
-package week1;
+package weeklyTasks;
 
 public class Task1_oddOrEven {
 
