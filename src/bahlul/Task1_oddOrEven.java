@@ -1,8 +1,7 @@
 package bahlul;
 
-public class oddOrEven {
+public class Task1_oddOrEven {
 
-    // first week
     public static void main(String[] args) {
 
 
@@ -24,4 +23,5 @@ public class oddOrEven {
 
         return "Even";
     }
+
 }
