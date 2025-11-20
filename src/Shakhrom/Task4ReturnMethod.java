@@ -1,6 +1,6 @@
 package Shakhrom;
 
-public class task4 {
+public class Task4ReturnMethod {
 
       /*
     Task 4
