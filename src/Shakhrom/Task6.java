@@ -8,8 +8,11 @@ public class Task6 {
         System.out.println(unique("AAABBBCCCDEF")); // DEF
     }
 
+
+
     public static String unique(String str) {
         Map<Character, Integer> map = new LinkedHashMap<>();
+
 
         for (char ch : str.toCharArray()) {
             map.put(ch, map.getOrDefault(ch, 0) + 1);
@@ -25,10 +28,14 @@ public class Task6 {
         return result.toString();
     }
 
+
+
 }
 
   /*
     String -- Find the unique
     Write a return method that can find thw unique characters from the String
     Ex: unique("AAABBBCCCDEF") ===> "DEF";
+
+    write the code in .txt file. Better for interview
      */
