@@ -1,10 +1,11 @@
 package Shakhrom;
 import java.util.*;
 
-public class Task6 {
+public class Task6_FindTheUnique {
 
 
     public static void main(String[] args) {
+
         System.out.println(unique("AAABBBCCCDEF")); // DEF
     }
 
@@ -27,8 +28,6 @@ public class Task6 {
 
         return result.toString();
     }
-
-
 
 }
 
