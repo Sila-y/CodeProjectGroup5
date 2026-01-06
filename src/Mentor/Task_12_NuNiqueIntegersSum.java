@@ -1,4 +1,4 @@
-package instructor;
+package Mentor;
 
     /* N unique integers that sum up to 0
 

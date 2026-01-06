@@ -1,4 +1,4 @@
-package instructor;
+package Mentor;
 
 /*    String -- Reverse
       Write a return method that can reverse String

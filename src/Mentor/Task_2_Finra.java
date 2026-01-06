@@ -1,4 +1,4 @@
-package instructor;
+package Mentor;
 
    /*
     QUESTION 2- Write a function which prints out the numbers from 1 to 30 but
